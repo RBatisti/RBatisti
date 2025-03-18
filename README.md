@@ -13,7 +13,7 @@ I'm Rogerio, and I'm currently studying Computer Science at UFSC.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
